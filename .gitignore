@@ -1,3 +1,5 @@
+MainOnly
+ignored_*
 # Prerequisites
 *.d
 
